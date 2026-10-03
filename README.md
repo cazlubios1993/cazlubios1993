@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Reichert</h1>
+<h1 align="center">Lucas Reichert Siqueira</h1>
 <h3 align="center">Staff Software Engineer · Distributed Systems & Cloud · Applied AI</h3>
 
 <p align="center">

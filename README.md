@@ -10,6 +10,8 @@
 > [!IMPORTANT]
 > **This is my personal GitHub account.** I use it for side projects and learning repositories.
 > My professional work lives in private repositories under each employer's GitHub Enterprise organization, on a separate company-linked account, so it does not appear here.
+>
+> My own projects live in a single private monorepo. With AI-assisted development, one repository can hold many languages, stacks and architectures side by side, and some of those projects cannot be made public, so I keep the whole repository private. I am happy to walk through it in an interview.
 
 ---
 

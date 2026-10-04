@@ -18,7 +18,7 @@ I build systems that have to scale, stay up and stay affordable. 16 years across
 ### Selected impact
 
 - **300-450M notifications a day at 99.999% availability**: event-driven platform on Kafka, event sourcing, CQRS and Temporal sagas.
-- **#M3IK+ saved, P99 from 3-6s to 100ms**: PostgreSQL overhaul that cut read replicas from 13 to 3 and database incidents from 10-15 a year to near zero.
+- **#M3MI+ saved, P99 from 3-6s to 100ms**: PostgreSQL overhaul that cut read replicas from 13 to 3 and database incidents from 10-15 a year to near zero.
 - **Payments for Jaguar, Land Rover, GM, Penske and FIAT**: hub-and-spoke payment integrations with exactly-once financial effects.
 - **0 to 50K users in 2 months**: co-founding engineer; hired the team, designed the platform, MVP secured investment.
 

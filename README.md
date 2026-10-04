@@ -8,7 +8,7 @@
 </p>
 
 > [!IMPORTANT]
-> **About this account.** I created this account in 2026 after losing access to my previous one over a two-factor authentication issue. That account was later deleted, and I re-imported my older repositories here.
+> **About this account.** I created this account in 2026 after my previous one was hacked and then deleted, and I re-imported my older repositories here. A second account, [github.com/cazlu8](https://github.com/cazlu8), active since 2014, is still public, but a two-factor authentication issue locked me out of it. Between a hack and an MFA lockout, my recovery codes now get better backups than my databases.
 >
 > One of them is [algorithms-and-data-structures](https://github.com/cazlubios1993/algorithms-and-data-structures), which I started in 2015 to study data structures and algorithms. Its commits keep their original dates, but it only appears here recently because this account is new.
 >

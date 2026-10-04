@@ -28,6 +28,8 @@ I build systems that have to scale, stay up and stay affordable. 16 years across
 - **$600K+ saved, P99 from 3-6s to 100ms**: PostgreSQL overhaul that cut read replicas from 13 to 3 and database incidents from 10-15 a year to near zero.
 - **Payments for Jaguar, Land Rover, GM, Penske and FIAT**: hub-and-spoke payment integrations with exactly-once financial effects.
 - **0 to 50K users in 2 months**: co-founding engineer; hired the team, designed the platform, MVP secured investment.
+- **Webchat for 4M+ users at The Very Group**: led engineers across the UK, Russia and Ukraine to build a Salesforce-integrated webchat from scratch, and sized its AWS infrastructure with the SRE team for 4M+ concurrent users and 180-250K messages a minute.
+- **Hired twice by EPAM Systems**: first in 2021 as a contract lead software engineer for its US headquarters, then in 2022-2023 as a full-time engineer in Malaga, Spain, with EPAM sponsoring my visa and relocation.
 
 ### Tech stack
 

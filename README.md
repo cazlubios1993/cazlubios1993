@@ -10,6 +10,8 @@
 > [!IMPORTANT]
 > **About this account.** I created this account in 2026 after losing access to my previous one over a two-factor authentication issue. That account was later deleted, and I re-imported my older repositories here.
 >
+> One of them is [algorithms-and-data-structures](https://github.com/cazlubios1993/algorithms-and-data-structures), which I started in 2015 to study data structures and algorithms. Its commits keep their original dates, but it only appears here recently because this account is new.
+>
 > Most of my work happens in private enterprise repositories. GitHub counts those commits as private contributions, so they show on my graph only as anonymized activity, and anything done on a company-managed account does not appear here at all.
 >
 > My own projects live in a single private monorepo. With AI-assisted development, one repository can hold many languages, stacks and architectures side by side, and some of those projects cannot be made public, so I keep the whole repository private.

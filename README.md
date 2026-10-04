@@ -8,10 +8,13 @@
 </p>
 
 > [!IMPORTANT]
-> **This is my personal GitHub account.** I use it for side projects and learning repositories.
-> My professional work lives in private repositories under each employer's GitHub Enterprise organization, on a separate company-linked account, so it does not appear here.
+> **About this account.** I created this account in 2026 after losing access to my previous one over a two-factor authentication issue. That account was later deleted, and I re-imported my older repositories here.
+>
+> Most of my work happens in private enterprise repositories. GitHub counts those commits as private contributions, so they show on my graph only as anonymized activity, and anything done on a company-managed account does not appear here at all.
 >
 > My own projects live in a single private monorepo. With AI-assisted development, one repository can hold many languages, stacks and architectures side by side, and some of those projects cannot be made public, so I keep the whole repository private.
+>
+> For an outside view of my work, see the recommendations on my [LinkedIn](https://linkedin.com/in/lucas-reichert-siqueira-b1a992104) from colleagues who worked with me on CPU and SQL performance optimizations.
 
 ---
 
@@ -20,7 +23,7 @@ I build systems that have to scale, stay up and stay affordable. 16 years across
 ### Selected impact
 
 - **300-450M notifications a day at 99.999% availability**: event-driven platform on Kafka, event sourcing, CQRS and Temporal sagas.
-- **#3MI+ saved, P99 from 3-6s to 100ms**: PostgreSQL overhaul that cut read replicas from 13 to 3 and database incidents from 10-15 a year to near zero.
+- **$600K+ saved, P99 from 3-6s to 100ms**: PostgreSQL overhaul that cut read replicas from 13 to 3 and database incidents from 10-15 a year to near zero.
 - **Payments for Jaguar, Land Rover, GM, Penske and FIAT**: hub-and-spoke payment integrations with exactly-once financial effects.
 - **0 to 50K users in 2 months**: co-founding engineer; hired the team, designed the platform, MVP secured investment.
 

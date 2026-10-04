@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Brazil-UTC--3%20·%20overlaps%20US%20hours-555555?style=flat-square" alt="Location">
 </p>
 
+> [!IMPORTANT]
+> **This is my personal GitHub account.** I use it for side projects and learning repositories.
+> My professional work lives in private repositories under each employer's GitHub Enterprise organization, on a separate company-linked account, so it does not appear here.
+
 ---
 
 I build systems that have to scale, stay up and stay affordable. 16 years across payments, real-time notifications and product platforms, for companies in the US, Europe and Brazil. I own architecture and technical direction while staying hands-on, and I spend as much time on how a team ships as on what it ships.

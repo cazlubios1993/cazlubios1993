@@ -13,7 +13,7 @@
 
 ---
 
-I build systems that have to scale, stay up and stay affordable. 16 years across payments, real-time notifications and product platforms, for companies in the US, Europe and Brazil. I own architecture and technical direction while staying hands-on, and I spend as much time on how a team ships as on what it ships.
+I build systems that have to scale, stay up and stay affordable. 16 years across payments, real-time notifications and product platforms, for companies in the US, Europe and Brazil, with $3M+ in infrastructure savings across my career. I own architecture and technical direction while staying hands-on, and I spend as much time on how a team ships as on what it ships.
 
 ### Selected impact
 

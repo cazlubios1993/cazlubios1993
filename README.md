@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cazlubios1993/cazlubios1993/blob/main/assets/intro.mp4"><img src="assets/intro-thumbnail.jpg" width="560" alt="Watch my 1-minute video intro"></a>
+  <a href="https://cazlubios1993.github.io/cazlubios1993/assets/intro.mp4"><img src="assets/intro-thumbnail.jpg" width="560" alt="Watch my 1-minute video intro"></a>
 </p>
 
 > [!IMPORTANT]

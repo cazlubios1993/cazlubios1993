@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Reichert Siqueira</h1>
-<h3 align="center">Staff Software Engineer · Distributed Systems & Cloud · Applied AI</h3>
+<h3 align="center">Staff/Senior Full-Stack Back-end Heavy Software Engineer · Distributed Systems & Cloud · Applied AI</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas-reichert-siqueira-b1a992104"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>

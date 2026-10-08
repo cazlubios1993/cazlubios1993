@@ -18,7 +18,7 @@
 >
 > My own projects live in a single private monorepo. With AI-assisted development, one repository can hold many languages, stacks and architectures side by side, and some of those projects cannot be made public, so I keep the whole repository private.
 >
-> For an outside view of my work, see the recommendations on my [LinkedIn](https://linkedin.com/in/lucas-reichert-siqueira-b1a992104) from colleagues who worked with me on CPU and SQL performance optimizations.
+> For an outside view of my work, see the recommendations on my [LinkedIn](https://www.linkedin.com/in/lucas-reichert-siqueira-b1a992104/details/recommendations/) from colleagues who worked with me on CPU and SQL performance optimizations.
 
 ---
 

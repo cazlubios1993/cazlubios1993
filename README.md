@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Brazil-UTC--3%20·%20overlaps%20US%20hours-555555?style=flat-square" alt="Location">
 </p>
 
+<p align="center">
+  <a href="https://github.com/cazlubios1993/cazlubios1993/blob/main/assets/intro.mp4"><img src="assets/intro-thumbnail.jpg" width="560" alt="Watch my 1-minute video intro"></a>
+</p>
+
 > [!IMPORTANT]
 > **About this account.** I created this account in 2026 after my previous one was hacked and then deleted, and I re-imported my older repositories here. I also lost a second account, [github.com/cazlu8](https://github.com/cazlu8), active since 2014: it is still public, but a two-factor authentication issue locked me out of it. Between a hack and an MFA lockout, my recovery codes now get better backups than my databases.
 >
